@@ -1,0 +1,312 @@
+[
+  {
+    "type": "View",
+    "style": {
+      "flex": 1,
+      "flexDirection": "row",
+      "gap": 5,
+      "marginHorizontal": 5
+    },
+    "children": [
+      {
+        "type": "View",
+        "style": {
+          "flex": 1
+        },
+        "children": [
+          {
+            "type": "View",
+            "style": {
+              "flexDirection": "row",
+              "gap": 20,
+              "borderBottomWidth": 0.5,
+              "borderColor": "grey",
+              "paddingBottom": 5
+            },
+            "children": [
+              {
+                "type": "Text",
+                "text": "For You",
+                "style": {
+                  "borderBottomWidth": 1
+                }
+              },
+              {
+                "type": "Text",
+                "text": "Following",
+                "style": {
+                  "borderBottomWidth": 0
+                }
+              },
+              {
+                "type": "Text",
+                "text": "Featured",
+                "style": {
+                  "borderBottomWidth": 0
+                }
+              },
+              {
+                "type": "Text",
+                "text": "Software",
+                "style": {
+                  "borderBottomWidth": 0
+                }
+              }
+            ]
+          },
+          {
+            "type": "View",
+            "style": {
+              "gap": 5,
+              "marginTop": 20
+            },
+            "children": [
+              {
+                "type": "Text",
+                "text": "AU: TechPreneur",
+                "style": {
+                  "fontSize": 12,
+                  "color": "grey"
+                }
+              },
+              {
+                "type": "View",
+                "style": {
+                  "flexDirection": "row",
+                  "gap": 10
+                },
+                "children": [
+                  {
+                    "type": "View",
+                    "style": {
+                      "flex": 1,
+                      "gap": 10
+                    },
+                    "children": [
+                      {
+                        "type": "Text",
+                        "text": "Why Instagram Switched to React Native (Again) — And How It Finally Worked This Time",
+                        "style": {
+                          "fontSize": 20,
+                          "fontWight": "700"
+                        }
+                      },
+                      {
+                        "type": "Text",
+                        "text": "In 2023, Meta quietly reignited its commitment to React Native. This time, with real production results.",
+                        "style": {
+                          "fontSize": 15,
+                          "fontWight": "400",
+                          "color": "grey"
+                        }
+                      },
+                      {
+                        "type": "View",
+                        "style": {
+                          "flexDirection": "row",
+                          "gap": 10,
+                          "flexWrap": "wrap"
+                        },
+                        "children": [
+                          {
+                            "type": "Text",
+                            "text": "15 Jul"
+                          },
+                          {
+                            "type": "View",
+                            "style": {
+                              "flexDirection": "row",
+                              "alignItems": "center",
+                              "gap": 5
+                            },
+                            "children": [
+                              {
+                                "type": "Image",
+                                "url": "https://placehold.co/10",
+                                "style": {
+                                  "height": 10,
+                                  "width": 10
+                                }
+                              },
+                              {
+                                "type": "Text",
+                                "text": "129 Claps"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "View",
+                            "style": {
+                              "flexDirection": "row",
+                              "alignItems": "center",
+                              "gap": 5
+                            },
+                            "children": [
+                              {
+                                "type": "Image",
+                                "url": "https://placehold.co/10",
+                                "style": {
+                                  "height": 10,
+                                  "width": 10
+                                }
+                              },
+                              {
+                                "type": "Text",
+                                "text": "6 Cmts"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "Image",
+                    "url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Y6nV7vcXwaJ1p0YmgcG7dQ.png",
+                    "style": {
+                      "height": 100,
+                      "width": 100
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "View",
+            "style": {
+              "gap": 5,
+              "marginTop": 20
+            },
+            "children": [
+              {
+                "type": "Text",
+                "text": "AU: Kartik Joshi",
+                "style": {
+                  "fontSize": 12,
+                  "color": "grey"
+                }
+              },
+              {
+                "type": "View",
+                "style": {
+                  "flexDirection": "row",
+                  "gap": 10
+                },
+                "children": [
+                  {
+                    "type": "View",
+                    "style": {
+                      "flex": 1,
+                      "gap": 10
+                    },
+                    "children": [
+                      {
+                        "type": "Text",
+                        "text": "Swiggy SDE II Frontend Interview Experience",
+                        "style": {
+                          "fontSize": 20,
+                          "fontWight": "700"
+                        }
+                      },
+                      {
+                        "type": "Text",
+                        "text": "In my job switch journey, I was targeting product-based firms. In that context, I got the opportunity to interview for companies...",
+                        "style": {
+                          "fontSize": 15,
+                          "fontWight": "400",
+                          "color": "grey"
+                        }
+                      },
+                      {
+                        "type": "View",
+                        "style": {
+                          "flexDirection": "row",
+                          "gap": 10,
+                          "flexWrap": "wrap"
+                        },
+                        "children": [
+                          {
+                            "type": "Text",
+                            "text": "4 Days Ago"
+                          },
+                          {
+                            "type": "View",
+                            "style": {
+                              "flexDirection": "row",
+                              "alignItems": "center",
+                              "gap": 5
+                            },
+                            "children": [
+                              {
+                                "type": "Image",
+                                "url": "https://placehold.co/10",
+                                "style": {
+                                  "height": 10,
+                                  "width": 10
+                                }
+                              },
+                              {
+                                "type": "Text",
+                                "text": "62 Claps"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "View",
+                            "style": {
+                              "flexDirection": "row",
+                              "alignItems": "center",
+                              "gap": 5
+                            },
+                            "children": [
+                              {
+                                "type": "Image",
+                                "url": "https://placehold.co/10",
+                                "style": {
+                                  "height": 10,
+                                  "width": 10
+                                }
+                              },
+                              {
+                                "type": "Text",
+                                "text": "6 Cmts"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "Image",
+                    "url": "https://miro.medium.com/v2/resize:fit:2000/format:webp/0*q8ookLj5eGYhmeqW",
+                    "style": {
+                      "height": 100,
+                      "width": 100
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "View",
+        "style": {
+          "width": 100,
+          "borderLeftWidth": 0.5,
+          "borderColor": "grey",
+          "paddingLeft": 5
+        },
+        "children": [
+          {
+            "type": "Text",
+            "text": "Placeholder Item"
+          }
+        ]
+      }
+    ]
+  }
+]
